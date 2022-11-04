@@ -1,3 +1,3 @@
-# Screen
+# [Screen](https://github.com/Mo61n/QR-code-qenerator)
 
-![](Screen/screen.png)
+<img src="Screen/screen.png" width="700px"  >
